@@ -1,0 +1,6 @@
+D:\10-Code\BelatrixTest\BTest\bin\Debug\BTest.exe.config
+D:\10-Code\BelatrixTest\BTest\bin\Debug\BTest.exe
+D:\10-Code\BelatrixTest\BTest\bin\Debug\BTest.pdb
+D:\10-Code\BelatrixTest\BTest\obj\Debug\BTest.csprojResolveAssemblyReference.cache
+D:\10-Code\BelatrixTest\BTest\obj\Debug\BTest.exe
+D:\10-Code\BelatrixTest\BTest\obj\Debug\BTest.pdb

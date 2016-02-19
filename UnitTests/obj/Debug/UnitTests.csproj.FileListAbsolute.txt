@@ -1,0 +1,8 @@
+D:\10-Code\BelatrixTest\UnitTests\bin\Debug\UnitTests.dll
+D:\10-Code\BelatrixTest\UnitTests\bin\Debug\UnitTests.pdb
+D:\10-Code\BelatrixTest\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\10-Code\BelatrixTest\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+D:\10-Code\BelatrixTest\UnitTests\obj\Debug\UnitTests.dll
+D:\10-Code\BelatrixTest\UnitTests\obj\Debug\UnitTests.pdb
+D:\10-Code\BelatrixTest\UnitTests\bin\Debug\BTest.exe
+D:\10-Code\BelatrixTest\UnitTests\bin\Debug\BTest.pdb
